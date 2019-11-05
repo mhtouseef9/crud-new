@@ -1,0 +1,22 @@
+<div class="phx-hero">
+
+    <%= new() %>          <!-- function that is defined in abc_view.ex and called here -->
+
+
+  <h2>Welcome Form</h2>
+
+  <button> Ahmad </button>
+  <button> Abbas </button>
+  <button> Ashfaq </button>
+  <button> Arslan </button>
+
+
+
+
+
+
+
+
+
+
+</div>

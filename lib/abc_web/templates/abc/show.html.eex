@@ -1,0 +1,7 @@
+<div class="phx-hero">
+<h2>hello</h2>
+  <h2>key  is <%= @key %>! </h2>
+
+
+
+</div>
